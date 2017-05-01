@@ -5,3 +5,5 @@ In this repo, I get to learn one of the most popular noSQL database engines by m
 Unlike a "flat" relational database, Mongo relies on nested objects with key/value pairs. The table restrictions are gone, but so are some of the other useful data relationships.
 
 ![mongodb](https://cloud.githubusercontent.com/assets/23462252/25596355/4f034252-2e8e-11e7-81c3-a152bb823582.png)
+
+Note: the Mongo docs are great! (https://docs.mongodb.com/)
