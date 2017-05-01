@@ -1,6 +1,7 @@
 1. Provide a query showing just the names (and nothing else) of the Italian
 restaurants.
-<Your query here>
+
+db.restaurants.find({cuisine:"Italian"}, {name:true})
 
 2. Provide a query showing how many Bakeries have a name that start with "M".
 <Your query here>
